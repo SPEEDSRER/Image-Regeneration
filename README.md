@@ -16,8 +16,9 @@
 
 
 
-![comparch4](D:\User\桌面\Image-Regen\README.assets\comparch4.png)
 
+
+![comparch4](https://github.com/user-attachments/assets/52a39734-3207-4c0e-80e1-e1a8b7b14eb5)
 
 
 # Overview
