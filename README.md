@@ -221,4 +221,17 @@ If you find this repository useful, please use the following BibTeX entry for ci
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2411.09449}, 
 }
+
+@inproceedings{meng2025image,
+  title     = {Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models},
+  author    = {Meng, Chutian and Ma, Feng and Miao, Jiacheng and Zhang, Chen and Yang, Yang and Zhuang, Yueting},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2025},
+  volume    = {39},
+  number    = {6},
+  pages     = {6090--6098},
+  doi       = {10.1609/aaai.v39i6.32651},
+  url       = {https://doi.org/10.1609/aaai.v39i6.32651}
+}
+
 ```
